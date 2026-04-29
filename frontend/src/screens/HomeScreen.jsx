@@ -4,6 +4,8 @@ import products from "../products_list"
 import Product from "../components/Product";
 
 const HomeScreen = () => {
+
+
     return (
         <>
             <h1>Novi proizvodi</h1>
